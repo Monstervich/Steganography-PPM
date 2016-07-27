@@ -1,4 +1,5 @@
-# Read Me
+# Steganography-PPM
+Stegnography system using PPM
 
 <h2>Program Outline</h2> 
 
