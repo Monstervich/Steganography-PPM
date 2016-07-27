@@ -1,5 +1,5 @@
-# Stenography-PPM
-Stenography PPM
+# Steganography-PPM
+Steganography PPM
 
 <b>Program Outline</b> 
 
@@ -13,6 +13,7 @@ The third file, called “steg.c” holds the ‘main’ functionality of the pr
 Within the program, I have used the linked list data structure to be used with the 2D array to store each character in the array within the red fields of the modified image. 
 
 <b>Usage instructions</b>
+
 NOTE: Do not include the quotation marks. (i.e. "")
 
 To encode: ./steg e "file1.ppm"
