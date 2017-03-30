@@ -34,3 +34,5 @@ To decode: ```./steg d "file1.ppm" modified.ppm```
 steg compares file1.ppm with modified.ppm to show the hidden message.
 
 ---
+<h2>Credits</h2>
+Prasad "psa85" Acharya & Abdullah "monstervich" Abdelwahab
